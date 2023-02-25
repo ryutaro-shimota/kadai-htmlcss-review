@@ -4,9 +4,6 @@ header{
     width: 1000px;
     background-color: #fcc;
 }
-div{
-    margin: 0px;
-}
 #wrapper{
     width:1000px;
     display: flex;
